@@ -2,3 +2,4 @@
 Sphinx==1.8.5
 exhale
 sphinx_rtd_theme
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
